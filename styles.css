@@ -50,6 +50,8 @@ button:hover{
   padding: 5px;
   text-decoration: none;
   padding:20px 40px;
+
+  
 }
 
 .dropdown-options a:hover {
@@ -69,7 +71,7 @@ H1{
   Border-width: 5px;
   Padding: 10px;
   Position: absolute;
-  Top:0;
+  Top:-10px;
 
 }
 
@@ -79,6 +81,7 @@ A:link{
   font-size:19px;
   Border-style: solid;
   Border-width: 2px;
+  Border: none;
   
 
 }
@@ -99,3 +102,13 @@ A:visited{
 
 }
 
+
+.button2{
+  Color: black;
+  Position: relative;
+  Top: 300px;
+  Left: 100px;
+  Border-style: none;
+  
+
+}
