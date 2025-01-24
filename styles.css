@@ -3,7 +3,7 @@ body{
   min-height:30vh; 
   display:flex;
 
-  Align-items:center;
+  Align-items: center;
   Background-image: none;
   Background-position: center;
   Background-repeat: no-repeat;
@@ -64,14 +64,14 @@ button:hover{
 
 H1{
   Color: black;
-  Font-family: "sixtyfour convergence", sans-serif;
+  Font-family: "dotgothic16", sixtyfour convergence;
   font-size:40px;
   Border-style: solid;
   Border-color: black;
   Border-width: 5px;
-  Padding: 10px;
+  Padding: 5px;
   Position: absolute;
-  Top:-10px;
+  Top:-15px;
 
 }
 
